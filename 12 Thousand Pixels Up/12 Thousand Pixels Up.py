@@ -1,3 +1,4 @@
+# Game made by Jed Krause
 import sys
 import os
 import pygame

@@ -1,3 +1,4 @@
+# Game made by Jed Krause
 from typing import Any
 import os
 import pygame
